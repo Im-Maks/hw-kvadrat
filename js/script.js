@@ -26,8 +26,7 @@ function change_div(){
     kvadrat.style.boxShadow = box_sh
     kvadrat.style.color = color
     kvadrat.style.fontSize = font_size
-
     kvadrat.style.transition = "0.5s"
+    kv.innerHTML = "text"
 
-    kvadrat.innerHTML(kv_text).value = text
 }
