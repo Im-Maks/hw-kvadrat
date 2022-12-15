@@ -1,0 +1,10 @@
+#kv{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.l_border{
+    height: 100%;
+    border-left: 1px solid black;
+}
